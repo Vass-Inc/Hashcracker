@@ -1,2 +1,5 @@
 # Hashcracker
-Bananas gonna get cracked
+
+Implements a basic cryptographic hash function and attempts to "crack" it via brute force.
+
+
